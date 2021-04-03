@@ -16,8 +16,6 @@ Return the result table in any order.
 
 The query result format is in the following example:
 
- 
-
 Logs table:
 +----+-----+
 | Id | Num |
