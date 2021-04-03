@@ -84,4 +84,3 @@ from
  from Friends
  group by activity) t
 where cnt_asc != 1 and cnt_desc != 1
-
