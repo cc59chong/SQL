@@ -96,3 +96,4 @@ WHERE id IN (SELECT id
                          WHERE people >= 100) a
                    ) b
              WHERE cnt >= 3);
+	     
