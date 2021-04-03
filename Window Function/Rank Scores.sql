@@ -59,3 +59,4 @@ If two or more rows have the same rank, then there will be no gaps in the sequen
 
 RANK() Similar to the DENSE_RANK() function except that there are gaps in the sequence of ranked values 
 when two or more rows have the same rank.
+
