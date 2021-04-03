@@ -20,7 +20,6 @@ Return the result table ordered by visit_date in ascending order.
 
 The query result format is in the following example.
 
- 
 
 Stadium table:
 +------+------------+-----------+
