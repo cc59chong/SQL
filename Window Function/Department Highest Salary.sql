@@ -59,4 +59,3 @@ from(
     join Department as b on a.DepartmentId = b.Id
 ) as t
 where t.Salary = t.MaxSalary
-
