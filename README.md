@@ -1,5 +1,5 @@
 ## Learning Resources
-sqlcourse2.com	http://www.sqlcourse.com/ <br>
+sqlcourse.com	http://www.sqlcourse.com/ <br>
 sqlzoo.net	https://sqlzoo.net/ <br>
 Vertabelo Academy	https://academy.vertabelo.com/ <br>
 SoloLearn	https://www.sololearn.com/home <br>
