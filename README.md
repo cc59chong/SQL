@@ -2,7 +2,7 @@
 sqlcourse.com	http://www.sqlcourse.com/ <br>
 sqlzoo.net	https://sqlzoo.net/ <br>
 Vertabelo Academy	https://academy.vertabelo.com/ <br>
-SoloLearn	https://www.sololearn.com/home <br>
+SoloLearn	https://www.sololearn.com <br>
 SQLBolt	https://sqlbolt.com/ <br>
 codecademy	https://www.codecademy.com/ <br>
 MODE	https://mode.com/sql-tutorial/ <br>
